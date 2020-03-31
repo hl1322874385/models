@@ -25,3 +25,4 @@ setup(
     packages=find_packages(),
     description='tf-slim',
 )
+python setup.py install
